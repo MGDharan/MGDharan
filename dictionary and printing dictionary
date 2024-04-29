@@ -1,0 +1,2 @@
+capitals = { 'tamil nadu' : 'chennai','kerala' : 'thiruvananthapuram','karnataka' : 'bengaluru'}
+print(capitals)
